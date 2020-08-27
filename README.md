@@ -27,4 +27,5 @@
 >
 >> Волк не тот, кто волк, а тот, кто волк! (с) кто-то
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+## Время мемом
+![Вот мем](lIPUeKFOI5tcj85H8fcNgjGWLAGGNAbCvde-mkqhaN4.png)
